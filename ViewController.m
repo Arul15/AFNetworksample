@@ -19,7 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"come here or not");
-    
+    /// Sample application Test
     
    ////// Multiple Request//////
     NSURL *url = [NSURL URLWithString:@"URL HERE"];
